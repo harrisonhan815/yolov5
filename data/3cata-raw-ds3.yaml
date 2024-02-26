@@ -1,0 +1,11 @@
+path: ../dataset/3cata/RAW-ds3  # dataset root dir
+train: train/images  
+val: val/images  
+test: test/images  
+
+# Classes
+names:
+  0: cat1
+  1: cat2
+  2: cat3
+

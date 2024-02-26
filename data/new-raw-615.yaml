@@ -1,0 +1,25 @@
+path: ../dataset/abd_raw/_RAW-615  # dataset root dir
+train: train/images  
+val: val/images  
+#test: test/images  
+
+# Classes
+names:
+  0: toy_car
+  1: notebook
+  2: pen
+  3: AC_remote
+  4: mouse
+  5: calculator
+  6: scissors
+  7: USB_driver
+  8: battery
+  9: card
+  10: candy
+  11: coin
+  12: nail_clip
+  13: jelly
+  14: floss
+  15: ring
+  16: tape
+
